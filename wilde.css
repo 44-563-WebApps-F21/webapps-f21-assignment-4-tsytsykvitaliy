@@ -18,6 +18,9 @@
     font-size: larger;
     color: black;
 }
+.name:hover {
+    text-shadow: 2px 2px 2px goldenrod;
+}
 .goring {
     color: black;
 }
